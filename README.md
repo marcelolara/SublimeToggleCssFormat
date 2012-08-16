@@ -49,11 +49,11 @@ Installing
 
 Once you install Package Control, restart ST2 and bring up the Command Palette (Command+Shift+p on OS X, Control+Shift+p on Linux/Windows). Select "Package Control: Install Package", wait while Package Control fetches the latest package list, then select `LESS` when the list appears. -->
 
-**Without Git:** Download the latest source zip from [github](https://github.com/heroheman/Singleline/zipball/master) and extract the files to your Sublime Text "Packages" directory, into a new directory named `Singleline`.
+**Without Git:** Download the latest source zip from [github](https://github.com/speilberg0/SublimeToggleCssFormat/zipball/master) and extract the files to your Sublime Text "Packages" directory, into a new directory named `SublimeToggleCssFormat`.
 
 **With Git:** Clone the repository in your Sublime Text "Packages" directory:
 
-    git clone git://github.com/heroheman/Singleline.git
+    git clone git://github.com/speilberg0/SublimeToggleCssFormat.git
 
 The "Packages" directory is located at:
 
