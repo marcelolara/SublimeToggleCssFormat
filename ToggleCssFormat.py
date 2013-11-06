@@ -34,7 +34,7 @@ def toggle(text):
 
         lead = m.group('leading')
         key = m.group('key')
-        lines = m.group('params').strip().split('; ')
+        lines = m.group('params').strip().split(';')
 
         multi = '%s%s{\n' % (lead, key)
         for line in lines:
